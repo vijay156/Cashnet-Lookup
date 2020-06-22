@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CustomerLookupResultDS>
+<LookupResult>
+<result>0</result>
+<last_name>Welcome</last_name>
+<first_name>testf</first_name>
+<cust_code>68617</cust_code>
+<itemcnt>1</itemcnt>
+<ippsrcamtcnt>1</ippsrcamtcnt>
+<ippsourceamountcode>IPPBALANCE</ippsourceamountcode>
+<item_code>MPPAY</item_code>
+<balance_due>500</balance_due>
+<termcode>TERM</termcode>
+<amount>0</amount>
+<maxamounttopay></maxamounttopay>
+</LookupResult>
+</CustomerLookupResultDS>
