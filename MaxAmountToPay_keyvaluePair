@@ -30,10 +30,4 @@
      itemdesc6=Summer 2016&
      balance6=0.00&
      billno6=16/SU&
-     ippsrcamtcnt=6&
-     ippsourceamountcode=TUI&
-     amount=4140.46&
-     termcode=19_SU&
-     ippsourceamountcode2=TUI&
-     amount2=0.00&
-     termcode2=19_SP</cashnet>
+     </cashnet>
